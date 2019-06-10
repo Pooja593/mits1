@@ -11,5 +11,5 @@ The front end nano degree program is interesting
    - Pavani
   + Nandini
   + Rudra
-  __mounika__
+  _mounika_
   --------------
