@@ -7,7 +7,8 @@ The front end nano degree program is interesting
 1.pooja
 2.mamatha
 3.Jyothi
- -Chandu
- -Pavani
- +Nandini
- +Rudra
+ 
+  -Chandu
+  -Pavani
+  +Nandini
+  +Rudra
