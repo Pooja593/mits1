@@ -8,6 +8,6 @@ The front end nano degree program is interesting
 2. mamatha
 3. Jyothi
  - Chandu
-  - Pavani
+   - Pavani
   + Nandini
   + Rudra
